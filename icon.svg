@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#fff7d6"/>
+  <circle cx="256" cy="256" r="180" fill="#59b7e8"/>
+  <path d="M130 220c45-70 130-86 210-46 38 19 54 53 42 90-18 56-70 84-135 85-88 1-156-48-117-129Z" fill="#5fbf77"/>
+  <path d="M220 105c38 8 65 29 75 58-33-7-64-1-92 18-20 13-49 14-69 1 16-38 47-66 86-77Z" fill="#f0c45c"/>
+  <path d="M304 330c50-16 86-8 103 24-27 41-72 69-123 78-29-20-21-74 20-102Z" fill="#5fbf77"/>
+  <text x="256" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="96" font-weight="700" fill="#fff">畅</text>
+</svg>
